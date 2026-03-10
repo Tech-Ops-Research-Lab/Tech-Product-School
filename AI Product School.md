@@ -1,4 +1,4 @@
-# AI Product School Curriculum  
+# AI Product School Curriculum.  
 ### Engineering, AI Systems, and Technical Writing
 
 This document defines a **comprehensive curriculum framework** for an **AI Product School and Technology Company** responsible for training engineers capable of **designing, building, deploying, and documenting real technology products**.
