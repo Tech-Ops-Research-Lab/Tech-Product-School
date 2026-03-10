@@ -1,4 +1,3 @@
-# Tool-Stacks-For-Technical-Instructors-and-Instructional-Designers 
 # Professional Tool Stack for Technical Instructors and Instructional Designers in Tech Engineering
 
 This document outlines the core professional tools used by **Technical Instructors, Engineering Educators, and Instructional Designers** when designing, producing, and delivering technical training programs.
